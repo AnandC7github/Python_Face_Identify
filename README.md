@@ -1,4 +1,4 @@
-# Python Face Recognition Project
+# Python Face Identifying Project
 
 ## Overview
 This project implements a live streaming application using Flask and OpenCV for face and eye recognition. The application captures video frames from the user's camera, detects faces and eyes using Haar cascades, and displays the results in real-time through a web interface.

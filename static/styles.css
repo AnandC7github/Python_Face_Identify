@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+.video-container {
+    position: relative;
+    display: inline-block;
+    border: 10px solid #ccc; /* Adjust the border thickness and color */
+    margin-top: 20px; /* Add margin to create space between heading and video */
+}
+
+.video-container img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
